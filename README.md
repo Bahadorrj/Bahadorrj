@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Bahadorrj
 - 👀 I’m interested in application development using python
-- 🌱 I’m currently learning PyQt and Sqlite3
+- 🌱 I’m currently learning Pandas and Ma
+- tplotlib
 - 📫 How to reach me: bahador.jorshary@gmail.com 
 
 <!---
