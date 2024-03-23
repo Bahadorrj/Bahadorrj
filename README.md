@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Bahadorrj
 - 👀 I’m interested in application development using python
-- 🌱 I’m currently learning Pandas and Matplotlib
 - 📫 How to reach me: bahador.jorshary@gmail.com 
 
 <!---
