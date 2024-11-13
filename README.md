@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a desktop GUI application for a private company<br>I'm looking to collaborate on desktop and web applications development, computer vision and machine learning, and any Python-related issues<br>I'm looking for help with design patterns<br>I'm currently learning OpenCV framework
+I'm currently working on a desktop GUI application for a private company<br>
 
 
 ## 🌐 Socials:
