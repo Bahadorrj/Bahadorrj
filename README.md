@@ -1,5 +1,7 @@
 <h1 align="left">About Me</h1>
 
+![Stats](./profile/stats.svg)
+
 <p align="left">Hi, I'm Bahador, an avid programming enthusiast and Python lover.<br>I am currently working in <a href="https://ircsan.com/" target="blank">CSAN</a> company.</p>
 
 <h1 align="left">Connect With Me</h1>
