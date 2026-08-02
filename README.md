@@ -1,93 +1,64 @@
-<h1 align="left">About Me</h1>
+<div align="center">
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=520&height=60&lines=Bahador+Rousta" alt="Bahador Rousta" />
+
+  <p>
+    <b>Python engineer - scientific tooling and desktop apps</b><br />
+    Building XRF spectroscopy analysis at <a href="https://ircsan.com/" target="_blank">CSAN</a>
+  </p>
+
+  <p>
+    <a href="https://www.linkedin.com/in/bahador-rousta-jorshary-37093224b" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://stackoverflow.com/users/21226530" target="_blank">
+      <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
+    </a>
+    <a href="https://kaggle.com/bahadorrousta" target="_blank">
+      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+    </a>
+    <a href="mailto:bahador.jorshary@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+
+</div>
+
+## Tech
 
 <div align="center">
-  <a href="#macropower-tech">
-    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="100" height="100" />
-  </a>
-  <p align="center">Hi, I'm Bahador, an avid programming enthusiast and Python lover.I am currently working at <a href="https://ircsan.com/" target="blank">CSAN</a> company.</p>
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PyQt6" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+
+  <br />
+
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+
+  <br />
+
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+
 </div>
 
-<div align="left">
-  <h1 align="left">Connect With Me</h1>
-  <table align="center" border="0" cellspacing="10" cellpadding="0">
-    <tr>
-      <td>
-        <a href="https://www.linkedin.com/in/bahador-rousta-jorshary-37093224b" target="_blank">
-          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin">
-        </a>
-      </td>
-      <td>
-        <a href="https://stackoverflow.com/users/21226530" target="_blank">
-          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow">
-        </a>
-      </td>
-      <td>
-        <a href="https://www.leetcode.com/bahadorrj" target="_blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="52" height="40" alt="leetcode">
-        </a>
-      </td>
-      <td>
-        <a href="https://kaggle.com/bahadorrousta" target="_blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="52" height="40" alt="kaggle">
-        </a>
-      </td>
-      <td>
-        <a href="https://t.me/bahadorrj" target="_blank">
-          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram">
-        </a>
-      </td>
-      <td>
-        <a href="mailto:bahador.jorshary@gmail.com" target="_blank">
-          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail">
-        </a>
-      </td>
-      <td>
-        <a href="https://instagram.com/bahadorrj" target="_blank">
-          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram">
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="left">
-  <h1 align="left">Languages & Frameworks</h1>
-  <table align="center" border="0" cellspacing="10" cellpadding="0">
-    <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" width="40" alt="qt logo" /></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="python logo" /></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="40" width="40" alt="pytest logo" /></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="40" alt="pandas logo" /></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" width="40" alt="numpy logo" /></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" width="40" alt="pytorch logo" /></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" height="40" width="40" alt="tensorflow logo" /></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" width="40" alt="jupyter logo" /></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" width="40" alt="opencv logo" /></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="40" width="40" alt="fastapi logo" /></td>
-    </tr>
-    <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" width="40" alt="flask logo" /></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="40" width="40" alt="django logo" /></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="html5 logo" /></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" alt="css3 logo" /></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="javascript logo" /></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" width="40" alt="sqlite logo" /></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="40" alt="postgresql logo" /></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40" alt="mysql logo" /></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="40" alt="linux logo" /></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="40" alt="docker logo" /></td>
-    </tr>
-    <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" width="40" alt="arduino logo" /></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" width="40" alt="raspberrypi logo" /></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" width="40" alt="matlab logo" /></td>
-      <td></td><td></td><td></td><td></td><td></td><td></td><td></td>
-    </tr>
-  </table>
-</div>
-
-<br>
+## GitHub
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bahadorrj&radius=16&theme=react&area=true&order=5&bg_color=151515" height="300" alt="activity-graph graph" />
+
+  <img src="profile/stats.svg" width="48%" alt="GitHub stats" />
+  <img src="profile/top-langs.svg" width="40%" alt="Top languages" />
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bahadorrj&radius=16&theme=react&area=true&order=5&bg_color=00000000&hide_border=true" width="100%" alt="Activity graph" />
+
 </div>
